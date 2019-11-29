@@ -1,0 +1,16 @@
+.gradle
+build/
+*.gradle
+.settings/
+.vscode/
+bin/
+.project
+.classpath
+gradlew.bat
+.gradle/
+.editorconfig
+.factorypath
+.mvn/
+mvnw
+mvnw.cmd
+target/
